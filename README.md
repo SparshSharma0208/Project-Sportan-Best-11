@@ -1,6 +1,4 @@
 # Project-Sportan-Best-11
-![Uploading Aim.png…]()
-
 Sportan: T20 Cricket World Cup Player Analysis
 Welcome to Sportan - your go-to solution for in-depth analysis of player performances during the T20 Cricket World Cup 2022. This project combines the power of Power BI and Python to provide comprehensive statistical insights into player statistics, aiding in the selection of the best team compositions for the T20 format of cricket.
 
